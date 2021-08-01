@@ -1,0 +1,4 @@
+# Project exclude paths
+/micronaut/target/
+/spring/target/
+/target/

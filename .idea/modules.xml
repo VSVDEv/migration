@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/init/init.iml" filepath="$PROJECT_DIR$/init/init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micronaut/micronaut.iml" filepath="$PROJECT_DIR$/micronaut/micronaut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/migration.iml" filepath="$PROJECT_DIR$/migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+    </modules>
+  </component>
+</project>
